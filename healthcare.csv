@@ -1,4 +1,4 @@
-Area code,Area name,Region name,Rural Urban Classification, Population,Aged 4 years and under,Aged 5 to14 years,Aged 15 to 19 years,Aged 20 to 34,Aged 35 to 54,Aged 55 to 64,Aged 65+,Income Band,GDHI (£m),"GP Surgeries per 100,000 people","Doctors per 100,000 people ",Very good health,Good health,Fair health,Bad health,Very bad health
+Area code,Area name,Region name,Rural Urban Classification, Population,Aged 4 years and under,Aged 5 to14 years,Aged 15 to 19 years,Aged 20 to 34,Aged 35 to 54,Aged 55 to 64,Aged 65+,Income Band,GDHI (£m),"GP Surgeries per 100,000 people","Doctors per 100,000 people",Very good health,Good health,Fair health,Bad health,Very bad health
 E06000001,Hartlepool,North East,Urban,92300,4982,11502,5180,16489,22522,13429,18233,Low Income,53.28,16.7774678606631,83.07,39817.0,30749.0,14415.0,5625.0,1732.0
 E06000002,Middlesbrough,North East,Urban,143900,8928,19260,8571,30813,34085,18089,24180,Low Income,69.66,14.4120537176548,129.51,67207.0,46382.0,19821.0,7969.0,2545.0
 E06000003,Redcar and Cleveland,North East,Urban,136500,6814,15867,7124,21945,32816,20220,31747,Low Income,69.96,13.0493410082791,122.85,58085.0,46416.0,21633.0,7916.0,2481.0
